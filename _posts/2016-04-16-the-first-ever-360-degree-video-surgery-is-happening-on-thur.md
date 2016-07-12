@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T00:15:19.418Z'
+datePublished: '2016-07-12T00:21:37.327Z'
 sourcePath: >-
   _posts/2016-04-16-the-first-ever-360-degree-video-surgery-is-happening-on-thur.md
 inFeed: true
@@ -19,8 +19,8 @@ keywords:
   - google
 related: []
 author: []
-dateModified: '2016-07-12T00:15:17.617Z'
-title: The First-Ever 360-Degree Video Surgery Is Happening On Thursday
+dateModified: '2016-07-12T00:21:36.433Z'
+title: Click here
 app_links:
   - url: >-
       buzzfeed://buzz/stephaniemlee/the-first-ever-360-degree-video-surgery-is-happening-on-thur
@@ -47,16 +47,13 @@ publisher:
   name: BuzzFeed
   favicon: 'https://webappstatic.buzzfeed.com/static/favicon.ico?v=128414953298.89'
   domain: www.buzzfeed.com
-description: >-
-  Over the course of two hours or so on Thursday, Dr. Shafi Ahmed will perform a
-  more-or-less routine surgery on a man in his seventies with colon cancer. The
-  47-year-old cancer specialist will make a small slice on the patient's belly,
-  remove the tumor from his bowel, and stitch the tissue back together.
+description: Click here to find out about me
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The First-Ever 360-Degree Video Surgery Is Happening On Thursday</h1><p>Over the course of two hours or so on Thursday, Dr. Shafi Ahmed will perform a more-or-less routine surgery on a man in his seventies with colon cancer. The 47-year-old cancer specialist will make a small slice on the patient's belly, remove the tumor from his bowel, and stitch the tissue back together.</p><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/17/campaign_images/webdr02/the-first-ever-360-degree-video-surgery-is-happen-2-23051-1460581878-3_dblbig.jpg" /></article>
+# Click here
+![Click here to find out about me](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532704d8-4aa9-4378-9dff-66cff205f1c9.jpg)

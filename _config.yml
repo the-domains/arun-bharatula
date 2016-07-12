@@ -1,14 +1,14 @@
-layout_spectrum: 0.7784429404418916
-typography_spectrum: 0.3331923217047006
+layout_spectrum: 0.7958667434286326
+typography_spectrum: 0.46125339856371284
 color:
-  brandStrength: 0.6464232271537185
-  lightness: 0.8293613651767373
-  saturation: 0.5559781631454825
-  rhythmicContrast: 0.35353362117893994
+  brandStrength: 0.42440310772508383
+  lightness: 0.9272882619407028
+  saturation: 0.9140547695569694
+  rhythmicContrast: 0.5268571528140455
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: Arun Bharatula

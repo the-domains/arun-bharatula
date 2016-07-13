@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-07-12T00:21:37.327Z'
+datePublished: '2016-07-13T19:36:01.294Z'
 sourcePath: >-
   _posts/2016-04-16-the-first-ever-360-degree-video-surgery-is-happening-on-thur.md
 inFeed: true
 isBasedOnUrl: >-
   http://www.buzzfeed.com/stephaniemlee/the-first-ever-360-degree-video-surgery-is-happening-on-thur#.rr1LK2rYZ
+authors: []
 hasPage: false
 keywords:
   - reality
@@ -19,8 +20,8 @@ keywords:
   - google
 related: []
 author: []
-dateModified: '2016-07-12T00:21:36.433Z'
-title: Click here
+dateModified: '2016-07-13T19:35:39.226Z'
+title: Resume
 app_links:
   - url: >-
       buzzfeed://buzz/stephaniemlee/the-first-ever-360-degree-video-surgery-is-happening-on-thur
@@ -43,10 +44,10 @@ app_links:
     namespace: google
     package: com.buzzfeed.android
 publisher:
-  url: 'https://www.buzzfeed.com'
   name: BuzzFeed
-  favicon: 'https://webappstatic.buzzfeed.com/static/favicon.ico?v=128414953298.89'
   domain: www.buzzfeed.com
+  url: 'https://www.buzzfeed.com'
+  favicon: 'https://webappstatic.buzzfeed.com/static/favicon.ico?v=128414953298.89'
 description: Click here to find out about me
 inLanguage: en
 inNav: false
@@ -55,5 +56,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Click here
-![Click here to find out about me](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532704d8-4aa9-4378-9dff-66cff205f1c9.jpg)
+# [Resume][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532704d8-4aa9-4378-9dff-66cff205f1c9.jpg)
+
+[0]: https://drive.google.com/open?id=14m6nBiBIHdOwqTX_9kU7v-0HwT_w1gbCNra5sIfLMwU "Resume"

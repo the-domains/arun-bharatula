@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-13T19:36:01.294Z'
+datePublished: '2016-07-13T19:38:15.562Z'
 sourcePath: >-
   _posts/2016-04-16-the-first-ever-360-degree-video-surgery-is-happening-on-thur.md
 inFeed: true
@@ -20,7 +20,7 @@ keywords:
   - google
 related: []
 author: []
-dateModified: '2016-07-13T19:35:39.226Z'
+dateModified: '2016-07-13T19:37:59.607Z'
 title: Resume
 app_links:
   - url: >-
@@ -57,6 +57,6 @@ _type: MediaObject
 
 ---
 # [Resume][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532704d8-4aa9-4378-9dff-66cff205f1c9.jpg)
+![Click here to find out about me](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532704d8-4aa9-4378-9dff-66cff205f1c9.jpg)
 
 [0]: https://drive.google.com/open?id=14m6nBiBIHdOwqTX_9kU7v-0HwT_w1gbCNra5sIfLMwU "Resume"

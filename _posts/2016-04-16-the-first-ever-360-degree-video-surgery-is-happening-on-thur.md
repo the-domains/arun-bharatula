@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-14T15:35:33.682Z'
+datePublished: '2016-07-14T16:32:30.513Z'
 sourcePath: >-
   _posts/2016-04-16-the-first-ever-360-degree-video-surgery-is-happening-on-thur.md
 inFeed: true
@@ -20,7 +20,7 @@ keywords:
   - google
 related: []
 author: []
-dateModified: '2016-07-14T15:35:24.481Z'
+dateModified: '2016-07-14T16:30:48.568Z'
 title: Resume
 app_links:
   - url: >-
@@ -48,7 +48,7 @@ publisher:
   domain: www.buzzfeed.com
   url: 'https://www.buzzfeed.com'
   favicon: 'https://webappstatic.buzzfeed.com/static/favicon.ico?v=128414953298.89'
-description: Click here to find out about me
+description: ' '
 inLanguage: en
 inNav: false
 starred: false
@@ -57,6 +57,6 @@ _type: MediaObject
 
 ---
 # [Resume][0]
-![Click here to find out about me](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532704d8-4aa9-4378-9dff-66cff205f1c9.jpg)
+![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532704d8-4aa9-4378-9dff-66cff205f1c9.jpg)
 
 [0]: https://drive.google.com/open?id=14m6nBiBIHdOwqTX_9kU7v-0HwT_w1gbCNra5sIfLMwU "Resume"

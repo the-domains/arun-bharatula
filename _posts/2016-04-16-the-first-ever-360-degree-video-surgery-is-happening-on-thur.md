@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-18T20:18:31.043Z'
+datePublished: '2016-07-26T21:03:53.600Z'
 sourcePath: >-
   _posts/2016-04-16-the-first-ever-360-degree-video-surgery-is-happening-on-thur.md
 inFeed: true
@@ -20,7 +20,8 @@ keywords:
   - google
 related: []
 author: []
-dateModified: '2016-07-18T20:18:05.490Z'
+via: {}
+dateModified: '2016-07-26T21:03:23.347Z'
 title: Resume
 app_links:
   - url: >-
@@ -43,11 +44,7 @@ app_links:
     type: android
     namespace: google
     package: com.buzzfeed.android
-publisher:
-  name: BuzzFeed
-  domain: www.buzzfeed.com
-  url: 'https://www.buzzfeed.com'
-  favicon: 'https://webappstatic.buzzfeed.com/static/favicon.ico?v=128414953298.89'
+publisher: {}
 description: ''
 inLanguage: en
 inNav: false
